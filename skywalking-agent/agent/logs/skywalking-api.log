@@ -1,0 +1,858 @@
+INFO 2021-08-21 12:46:35:143 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-activemq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:143 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.84.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:143 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.85.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:144 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-asynchttpclient-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:144 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-avro-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:144 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-canal-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:144 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:144 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cxf-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:145 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-2.7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:145 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:145 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elastic-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:145 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticjob-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:146 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:146 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:146 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:146 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-feign-default-http-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:147 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-finagle-6.25.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:147 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-grpc-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:147 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-h2-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:147 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hbase-1.x-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:147 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpasyncclient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:148 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:148 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpClient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:148 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:148 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hystrix-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:148 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-influxdb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:149 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jdbc-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:149 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jedis-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:149 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:149 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:149 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-server-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:150 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:150 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:150 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-lettuce-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:150 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-light4j-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:151 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mariadb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:151 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:151 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:151 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:151 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:152 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jdbc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:152 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jtds-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:152 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:152 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:152 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:153 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:153 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-neo4j-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:153 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-netty-socketio-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:153 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-http-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:153 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:154 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:154 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:154 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:154 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-play-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:155 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-postgresql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:155 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-pulsar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:155 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-quasar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:155 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rabbitmq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:155 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-redisson-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:156 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-resttemplate-4.3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:156 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:156 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:156 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:157 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:157 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:157 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:157 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:158 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-5.0.0-beta-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:158 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-solrj-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:158 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-async-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:158 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:158 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-core-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-scheduled-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spymemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-struts2-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-undertow-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-vertx-core-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xmemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xxl-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\baidu-brpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dbcp-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-2.7.x-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-12.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\jsonrpc4j-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\motan-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\resteasy-server-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\sofa-rpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-webflux-5.x-webclient-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\thrift-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\tomcat-7.x-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-kafka-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-2.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logback-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logging-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-meter-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-opentracing-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-trace-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:35:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-activemq-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.84.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.85.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-asynchttpclient-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-avro-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-canal-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cxf-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-2.7.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elastic-job-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticjob-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-6.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-7.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-feign-default-http-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-finagle-6.25.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-grpc-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-h2-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hbase-1.x-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpasyncclient-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:179 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpClient-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:179 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hystrix-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:179 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-influxdb-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:179 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jedis-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:179 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.0-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:179 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:180 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-server-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:180 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:180 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-lettuce-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:180 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-light4j-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:180 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mariadb-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:180 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:180 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:181 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:181 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jdbc-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:181 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jtds-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:181 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:181 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-6.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:181 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:181 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-neo4j-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:182 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-netty-socketio-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:182 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-http-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:182 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:182 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:182 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:182 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-play-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:182 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-postgresql-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:183 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-pulsar-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:183 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-quasar-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:183 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rabbitmq-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:183 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-redisson-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:183 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-resttemplate-4.3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:183 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:183 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:184 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:184 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:184 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:184 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:184 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:184 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-5.0.0-beta-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:185 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-solrj-7.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:185 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-async-annotation-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:185 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:185 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:185 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:185 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-core-patch-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:185 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:186 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:186 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-scheduled-annotation-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:186 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:186 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:186 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:186 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-commons-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:186 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spymemcached-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:187 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-struts2-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:187 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-undertow-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:187 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-vertx-core-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:187 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xmemcached-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:187 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xxl-job-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:187 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\baidu-brpc-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:188 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\dbcp-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:188 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-2.7.x-conflict-patch-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:188 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-conflict-patch-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:188 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-12.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:188 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:188 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:189 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\jsonrpc4j-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:189 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\motan-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:189 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\resteasy-server-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:189 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\sofa-rpc-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:189 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-webflux-5.x-webclient-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:189 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\thrift-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:189 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\tomcat-7.x-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:190 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-kafka-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:190 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-1.x-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:190 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-2.x-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:190 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logback-1.x-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:190 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-meter-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:190 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-opentracing-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:35:190 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-trace-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:46:39:959 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-activemq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:959 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.84.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:959 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.85.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:959 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-asynchttpclient-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:960 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-avro-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:960 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-canal-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:960 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:960 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cxf-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:961 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-2.7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:961 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:961 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elastic-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:961 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticjob-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:961 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:962 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:962 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:962 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-feign-default-http-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:963 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-finagle-6.25.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:963 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-grpc-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:963 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-h2-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:963 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hbase-1.x-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:963 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpasyncclient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:964 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:964 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpClient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:964 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:964 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hystrix-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:964 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-influxdb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:964 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jdbc-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:964 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jedis-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:965 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:965 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:965 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-server-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:965 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:965 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:965 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-lettuce-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:965 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-light4j-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:966 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mariadb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:966 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:966 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:966 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:966 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:966 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jdbc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:967 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jtds-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:967 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:967 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:967 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:967 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:967 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-neo4j-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:968 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-netty-socketio-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:968 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-http-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:968 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:968 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:968 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:968 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:969 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-play-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:969 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-postgresql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:969 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-pulsar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:969 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-quasar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:969 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rabbitmq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:969 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-redisson-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:969 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-resttemplate-4.3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:970 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:970 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:970 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:970 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:970 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:970 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:970 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:971 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-5.0.0-beta-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:971 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-solrj-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:971 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-async-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:971 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:971 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:971 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:971 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-core-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:972 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:972 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:972 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-scheduled-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:972 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:972 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:972 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:972 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spymemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-struts2-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-undertow-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-vertx-core-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xmemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xxl-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\baidu-brpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:973 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dbcp-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-2.7.x-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-12.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\jsonrpc4j-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\motan-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\resteasy-server-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\sofa-rpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:974 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-webflux-5.x-webclient-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:975 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\thrift-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:975 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\tomcat-7.x-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:975 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-kafka-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:975 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:975 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-2.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:976 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logback-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:976 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logging-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:976 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-meter-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:976 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-opentracing-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:46:39:976 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-trace-activation-8.7.0.jar loaded. 
+WARN 2021-08-21 12:46:40:557 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.RedisController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:46:40:558 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.RedisController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:46:40:563 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.RedisController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2021-08-21 12:46:40:570 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:46:40:570 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:46:40:570 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2021-08-21 12:46:40:837 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-08-21 12:46:40:837 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:46:40:837 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:46:40:837 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+ERROR 2021-08-21 12:46:41:699 grpc-default-executor-1 EventReportServiceClient : Failed to report starting event. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at org.apache.skywalking.apm.dependencies.io.grpc.Status.asRuntimeException(Status.java:533)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls$StreamObserverToCallListenerAdapter.onClose(ClientCalls.java:478)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:413)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.access$500(ClientCallImpl.java:66)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:742)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:721)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.skywalking.apm.dependencies.io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /127.0.0.1:11800
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:715)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:702)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+ERROR 2021-08-21 12:46:41:700 SkywalkingAgent-6-JVMService-consume-0 JVMMetricsSender : send JVM metrics to Collector fail. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.toStatusRuntimeException(ClientCalls.java:262)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.getUnchecked(ClientCalls.java:243)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.blockingUnaryCall(ClientCalls.java:156)
+	at org.apache.skywalking.apm.network.language.agent.v3.JVMMetricReportServiceGrpc$JVMMetricReportServiceBlockingStub.collect(JVMMetricReportServiceGrpc.java:181)
+	at org.apache.skywalking.apm.agent.core.jvm.JVMMetricsSender.run(JVMMetricsSender.java:82)
+	at org.apache.skywalking.apm.util.RunnableWithExceptionProtection.run(RunnableWithExceptionProtection.java:33)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.skywalking.apm.dependencies.io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /127.0.0.1:11800
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:715)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:702)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN 2021-08-21 12:46:42:249 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-08-21 12:46:42:249 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:46:42:260 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-08-21 12:46:42:260 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+ERROR 2021-08-21 12:47:58:213 SkywalkingAgent-8-ProfileGetTaskService-0 ProfileTaskChannelService : Query profile task from backend fail. 
+java.lang.OutOfMemoryError
+	at sun.misc.Unsafe.allocateMemory(Native Method)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.PlatformDependent0.allocateDirectNoCleaner(PlatformDependent0.java:465)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.PlatformDependent.allocateDirectNoCleaner(PlatformDependent.java:711)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.PoolArena$DirectArena.allocateDirect(PoolArena.java:755)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.PoolArena$DirectArena.newChunk(PoolArena.java:731)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.PoolArena.allocateNormal(PoolArena.java:247)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.PoolArena.allocate(PoolArena.java:215)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.PoolArena.allocate(PoolArena.java:147)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.PooledByteBufAllocator.newDirectBuffer(PooledByteBufAllocator.java:356)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:187)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.AbstractByteBufAllocator.buffer(AbstractByteBufAllocator.java:123)
+	at org.apache.skywalking.apm.dependencies.io.grpc.netty.NettyWritableBufferAllocator.allocate(NettyWritableBufferAllocator.java:51)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.MessageFramer.writeKnownLengthUncompressed(MessageFramer.java:227)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.MessageFramer.writeUncompressed(MessageFramer.java:168)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.MessageFramer.writePayload(MessageFramer.java:141)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.AbstractStream.writeMessage(AbstractStream.java:65)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ForwardingClientStream.writeMessage(ForwardingClientStream.java:37)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.sendMessageInternal(ClientCallImpl.java:523)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.sendMessage(ClientCallImpl.java:507)
+	at org.apache.skywalking.apm.dependencies.io.grpc.ForwardingClientCall.sendMessage(ForwardingClientCall.java:37)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.asyncUnaryRequestCall(ClientCalls.java:308)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.futureUnaryCall(ClientCalls.java:218)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.blockingUnaryCall(ClientCalls.java:146)
+	at org.apache.skywalking.apm.network.language.profile.v3.ProfileTaskGrpc$ProfileTaskBlockingStub.getProfileTaskCommands(ProfileTaskGrpc.java:296)
+	at org.apache.skywalking.apm.agent.core.profile.ProfileTaskChannelService.run(ProfileTaskChannelService.java:91)
+	at org.apache.skywalking.apm.util.RunnableWithExceptionProtection.run(RunnableWithExceptionProtection.java:33)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+ERROR 2021-08-21 12:48:01:212 SkywalkingAgent-6-JVMService-consume-0 JVMMetricsSender : send JVM metrics to Collector fail. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.toStatusRuntimeException(ClientCalls.java:262)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.getUnchecked(ClientCalls.java:243)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.blockingUnaryCall(ClientCalls.java:156)
+	at org.apache.skywalking.apm.network.language.agent.v3.JVMMetricReportServiceGrpc$JVMMetricReportServiceBlockingStub.collect(JVMMetricReportServiceGrpc.java:181)
+	at org.apache.skywalking.apm.agent.core.jvm.JVMMetricsSender.run(JVMMetricsSender.java:82)
+	at org.apache.skywalking.apm.util.RunnableWithExceptionProtection.run(RunnableWithExceptionProtection.java:33)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:378)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at org.apache.skywalking.apm.dependencies.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	... 1 more
+
+INFO 2021-08-21 12:55:29:665 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-activemq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:666 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.84.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:666 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.85.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:667 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-asynchttpclient-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:668 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-avro-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:669 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-canal-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:670 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:671 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cxf-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:672 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-2.7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:672 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:673 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elastic-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:674 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticjob-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:675 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:675 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:676 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:677 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-feign-default-http-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:678 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-finagle-6.25.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:678 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-grpc-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:679 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-h2-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:680 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hbase-1.x-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:681 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpasyncclient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:682 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:682 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpClient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:683 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:684 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hystrix-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:685 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-influxdb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:686 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jdbc-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:686 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jedis-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:687 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:688 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:689 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-server-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:689 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:690 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:691 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-lettuce-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:691 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-light4j-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:692 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mariadb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:693 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:693 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:694 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:694 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:695 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jdbc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:697 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jtds-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:698 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:698 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:699 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:700 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:700 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-neo4j-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:701 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-netty-socketio-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:702 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-http-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:703 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:704 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:704 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:705 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:706 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-play-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:706 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-postgresql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:707 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-pulsar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:707 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-quasar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:708 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rabbitmq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:708 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-redisson-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:709 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-resttemplate-4.3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:710 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:711 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:711 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:712 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:713 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:714 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:715 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:716 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-5.0.0-beta-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:716 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-solrj-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:717 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-async-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:718 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:718 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:719 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:720 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-core-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:721 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:721 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:722 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-scheduled-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:723 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:723 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:724 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:725 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:726 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spymemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:726 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-struts2-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:727 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-undertow-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:728 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-vertx-core-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:728 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xmemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:729 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xxl-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:730 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\baidu-brpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:730 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dbcp-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:731 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-2.7.x-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:732 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:732 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-12.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:733 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:733 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:734 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\jsonrpc4j-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:735 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\motan-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:735 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\resteasy-server-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:736 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\sofa-rpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:736 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:737 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-webflux-5.x-webclient-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:738 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\thrift-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:738 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\tomcat-7.x-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:739 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-kafka-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:740 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:741 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-2.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:742 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logback-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:743 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logging-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:743 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-meter-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:744 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-opentracing-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:745 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-trace-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:29:752 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-activemq-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:752 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.84.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:752 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.85.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-asynchttpclient-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-avro-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-canal-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cxf-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-2.7.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elastic-job-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:753 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticjob-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:754 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:754 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-6.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:754 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-7.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:755 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-feign-default-http-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:755 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-finagle-6.25.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:755 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-grpc-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:755 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-h2-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:755 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hbase-1.x-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:755 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpasyncclient-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:755 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:756 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpClient-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:756 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hystrix-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:756 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-influxdb-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:756 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jedis-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:756 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.0-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:757 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:757 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-server-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:757 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:757 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-lettuce-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:757 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-light4j-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:757 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mariadb-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:757 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:758 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:758 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:758 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jdbc-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:758 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jtds-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:758 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:758 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-6.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:758 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:759 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-neo4j-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:759 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-netty-socketio-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:759 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-http-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:759 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:759 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:759 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:759 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-play-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:760 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-postgresql-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:760 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-pulsar-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:760 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-quasar-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:760 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rabbitmq-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:760 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-redisson-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:760 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-resttemplate-4.3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:761 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:761 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:761 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:761 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:761 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:761 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:761 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:762 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-5.0.0-beta-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:762 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-solrj-7.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:762 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-async-annotation-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:762 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:762 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:762 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:762 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-core-patch-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:763 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:763 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:763 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-scheduled-annotation-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:763 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:763 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:763 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:764 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-commons-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:764 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spymemcached-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:764 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-struts2-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:764 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-undertow-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:764 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-vertx-core-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:764 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xmemcached-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:764 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xxl-job-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:765 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\baidu-brpc-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:765 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\dbcp-2.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:765 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-2.7.x-conflict-patch-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:765 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-conflict-patch-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:765 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-12.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:765 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:765 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-9.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:766 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\jsonrpc4j-1.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:766 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\motan-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:766 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\resteasy-server-3.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:766 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\sofa-rpc-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:766 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-webflux-5.x-webclient-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:766 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\thrift-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:766 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\plugins\tomcat-7.x-8.x-plugin-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:767 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-kafka-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:767 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-1.x-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:767 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-2.x-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:767 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logback-1.x-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:767 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-meter-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:767 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-opentracing-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:29:768 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-trace-activation-8.7.0.jar!/skywalking-plugin.def 
+INFO 2021-08-21 12:55:34:158 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-activemq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.84.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-armeria-0.85.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-asynchttpclient-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-avro-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-canal-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:159 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-cxf-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-2.7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-dubbo-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elastic-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticjob-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-elasticsearch-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:160 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-feign-default-http-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-finagle-6.25.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-grpc-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-h2-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hbase-1.x-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpasyncclient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpClient-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:161 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-httpclient-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-hystrix-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-influxdb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jdbc-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jedis-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-client-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-jetty-server-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:162 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-kafka-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-lettuce-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-light4j-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mariadb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mongodb-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jdbc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:163 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mssql-jtds-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-6.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-mysql-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-neo4j-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-netty-socketio-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-http-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:164 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-okhttp-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-play-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-postgresql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-pulsar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-quasar-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rabbitmq-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-redisson-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-resttemplate-4.3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-rocketmq-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:165 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-shardingsphere-5.0.0-beta-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-solrj-7.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-async-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:166 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-core-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-kafka-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spring-scheduled-annotation-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-springmvc-annotation-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:167 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-spymemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-struts2-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-undertow-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-vertx-core-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xmemcached-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\apm-xxl-job-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\baidu-brpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dbcp-2.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-2.7.x-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\dubbo-conflict-patch-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-12.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:168 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\graphql-9.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\jsonrpc4j-1.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\motan-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\resteasy-server-3.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\sofa-rpc-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-commons-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\spring-webflux-5.x-webclient-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:169 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\thrift-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\plugins\tomcat-7.x-8.x-plugin-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-kafka-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-log4j-2.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logback-1.x-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-logging-common-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-meter-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-opentracing-activation-8.7.0.jar loaded. 
+INFO 2021-08-21 12:55:34:170 main AgentClassLoader : F:\java\project\cfgo\skywalking-agent\agent\activations\apm-toolkit-trace-activation-8.7.0.jar loaded. 
+WARN 2021-08-21 12:55:34:684 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.RedisController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:55:34:684 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.RedisController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:55:34:688 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.RedisController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2021-08-21 12:55:34:692 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:55:34:692 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:55:34:692 main AbstractClassEnhancePluginDefine : enhance class com.chenfei.cfgoweb.controller.user.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveRestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2021-08-21 12:55:34:944 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-08-21 12:55:34:944 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:55:34:944 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:55:34:944 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+ERROR 2021-08-21 12:55:35:966 grpc-default-executor-1 EventReportServiceClient : Failed to report starting event. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at org.apache.skywalking.apm.dependencies.io.grpc.Status.asRuntimeException(Status.java:533)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls$StreamObserverToCallListenerAdapter.onClose(ClientCalls.java:478)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:413)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.access$500(ClientCallImpl.java:66)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:742)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:721)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.skywalking.apm.dependencies.io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /127.0.0.1:11800
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:715)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:702)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+ERROR 2021-08-21 12:55:35:967 SkywalkingAgent-6-JVMService-consume-0 JVMMetricsSender : send JVM metrics to Collector fail. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.toStatusRuntimeException(ClientCalls.java:262)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.getUnchecked(ClientCalls.java:243)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.blockingUnaryCall(ClientCalls.java:156)
+	at org.apache.skywalking.apm.network.language.agent.v3.JVMMetricReportServiceGrpc$JVMMetricReportServiceBlockingStub.collect(JVMMetricReportServiceGrpc.java:181)
+	at org.apache.skywalking.apm.agent.core.jvm.JVMMetricsSender.run(JVMMetricsSender.java:82)
+	at org.apache.skywalking.apm.util.RunnableWithExceptionProtection.run(RunnableWithExceptionProtection.java:33)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.skywalking.apm.dependencies.io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /127.0.0.1:11800
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:715)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:702)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN 2021-08-21 12:55:36:274 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-08-21 12:55:36:274 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2021-08-21 12:55:36:282 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-08-21 12:55:36:282 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
