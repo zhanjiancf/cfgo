@@ -11,14 +11,22 @@
     </parent>
 
     <groupId>com.chenfei</groupId>
-    <artifactId>cfgo-test</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>cfgo-study</artifactId>
+    <version>${revision}</version>
     <packaging>pom</packaging>
 
-    <name>cfgo-test</name>
+    <name>cfgo-study</name>
     <description>Demo project for Spring Boot</description>
 
-    <dependencies>
-    </dependencies>
+    <modules>
+        <module>cfgo-study-dao</module>
+        <module>cfgo-study-model</module>
+        <module>cfgo-study-service</module>
+        <module>cfgo-study-api</module>
+        <module>cfgo-study-web</module>
+    </modules>
 
+    <dependencies>
+
+    </dependencies>
 </project>
