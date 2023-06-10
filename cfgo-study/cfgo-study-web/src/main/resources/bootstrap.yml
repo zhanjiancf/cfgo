@@ -1,0 +1,70 @@
+server:
+  port: 8081
+#  servlet:
+#    context-path: /cfgo-study
+
+spring:
+  application:
+    name: cfgo-study
+  profiles:
+    active: dev
+
+  #配置 Nacos
+  cloud:
+    nacos:
+      discovery:
+        server‐addr: localhost:80
+      config:
+        server-addr: localhost:80
+        namespace: 9d85f7dc-a799-4e4a-a56a-b1b5ee9be3d6
+        group: application-config
+        # ${prefix}-${spring.profiles.active}.${file-extension}
+        prefix: ${spring.application.name}
+        file-exetension: properties
+
+  datasource:
+    cfgo-study:
+      url: jdbc:mysql://127.0.0.1:3306/cfgo-study?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&zeroDateTimeBehavior=convertToNull
+      username: root
+      password: cf123456
+      driverClassName: com.mysql.cj.jdbc.Driver
+    cfgo-test:
+      url: jdbc:mysql://127.0.0.1:3306/cfgo-test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&zeroDateTimeBehavior=convertToNull
+      username: root
+      password: cf123456
+      driverClassName: com.mysql.cj.jdbc.Driver
+
+  redis:
+    database: 0
+    timeout: 3000
+    password: cfredis
+    cluster:
+      nodes: #192.168.136.130:8001,192.168.136.131:8002,192.168.136.132:8003,192.168.136.130:8004,192.168.136.131:8005,192.168.136.132:8006
+        - 192.168.136.130:8001
+        - 192.168.136.131:8002
+        - 192.168.136.132:8003
+        - 192.168.136.130:8004
+        - 192.168.136.131:8005
+        - 192.168.136.132:8006
+    lettuce:
+      pool:
+        max-idle: 50
+        min-idle: 10
+        max-active: 100
+        max-wait: 1000
+    
+  data:
+    cassandra:
+      read-timeout:
+
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: FULL
+        connectTimeout: 5000
+        readTimeout: 10000
+
+logging:
+  level:
+    com.chenfei.cfgo.study.service.feign: debug

@@ -29,7 +29,7 @@
 			<dependency>
 				<groupId>com.chenfei</groupId>
 				<artifactId>cfgo-dependencies-bom</artifactId>
-				<version>0.0.1-SNAPSHOT</version>
+				<version>${revision}</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>

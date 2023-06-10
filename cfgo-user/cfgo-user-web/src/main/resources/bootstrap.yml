@@ -1,0 +1,23 @@
+server:
+  port: 8082
+#  servlet:
+#    context-path: /cfgo-user
+
+spring:
+  application:
+    name: cfgo-user
+  profiles:
+    active: dev
+
+  #配置 Nacos
+  cloud:
+    nacos:
+      discovery:
+        server‐addr: localhost:80
+      config:
+        server-addr: localhost:80
+        namespace: 9d85f7dc-a799-4e4a-a56a-b1b5ee9be3d6
+        group: application-config
+        # ${prefix}-${spring.profiles.active}.${file-extension}
+        prefix: ${spring.application.name}
+        file-exetension: properties
