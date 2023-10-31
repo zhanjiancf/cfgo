@@ -13,6 +13,18 @@ spring:
     password: cf123456
     driverClassName: com.mysql.cj.jdbc.Driver
 
+  redis:
+    host: 192.168.136.130
+    port: 6379
+    database: 0
+    timeout: 3000
+    lettuce:
+      pool:
+        max-active: 8
+        max-idle: 8
+        min-idle: 0
+        max-wait: 1000
+
 logging:
   level:
     com.chenfei.cfgo.study.service.feign: debug

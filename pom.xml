@@ -22,6 +22,10 @@
 
 	<properties>
 		<revision>1.0.0-SNAPSHOT</revision>
+		<!-- for maven compiler plugin -->
+		<java_source_version>1.8</java_source_version>
+		<java_target_version>1.8</java_target_version>
+		<file_encoding>UTF-8</file_encoding>
 	</properties>
 
 	<dependencyManagement>
@@ -39,10 +43,6 @@
 	<build>
 		<pluginManagement>
 			<plugins>
-				<plugin>
-					<groupId>org.springframework.boot</groupId>
-					<artifactId>spring-boot-maven-plugin</artifactId>
-				</plugin>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-source-plugin</artifactId>
