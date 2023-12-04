@@ -33,7 +33,7 @@
         <guava.version>30.1-jre</guava.version>
         <easyexcel.version>3.3.2</easyexcel.version>
 
-
+        
 
     </properties>
 
@@ -129,20 +129,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-source-plugin</artifactId>
-                <version>3.2.1</version>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-plugin-plugin</artifactId>
-                <version>3.6.4</version>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
