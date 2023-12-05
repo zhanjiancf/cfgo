@@ -28,10 +28,10 @@ public class AddAlg {
     private static void numberAdd() {
         int fixedNumber = 1;
         int changeNumber = 1;
-        for (; fixedNumber <= 30; fixedNumber++) {
+        for (; fixedNumber <= 20; fixedNumber++) {
             List<String> numberList = new ArrayList();
             int num = 0;
-            for (; changeNumber <= 30; changeNumber++) {
+            for (; changeNumber <= 20; changeNumber++) {
                 String formattedStr = String.format("%1d\t+\t%d\t= \t\t\t", changeNumber, fixedNumber);
                 numberList.add(formattedStr);
             }
@@ -44,6 +44,7 @@ public class AddAlg {
                     System.out.println();
                 }
             }
+            System.out.println();
             System.out.println("================================================================");
             changeNumber = 1;
         }
