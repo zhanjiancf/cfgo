@@ -48,5 +48,4 @@ public class AddAlg {
             changeNumber = 1;
         }
     }
-
 }
