@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.chenfei</groupId>
-	<artifactId>cfgo-parent</artifactId>
-	<version>${revision}</version>
-	<packaging>pom</packaging>
+    <groupId>com.chenfei</groupId>
+    <artifactId>cfgo-parent</artifactId>
+    <version>${revision}</version>
+    <packaging>pom</packaging>
 
-	<name>cfgo</name>
-	<description>Demo project for Spring Boot</description>
+    <name>cfgo</name>
+    <description>Demo project for Spring Boot</description>
 
-	<modules>
-		<module>cfgo-dependencies-bom</module>
-		<module>cfgo-test</module>
-		<module>cfgo-study</module>
-		<module>cfgo-user</module>
-		<module>cfgo-order</module>
-		<module>cfgo-common</module>
-		<module>cfgo-math</module>
-	</modules>
+    <modules>
+        <module>cfgo-dependencies-bom</module>
+        <module>cfgo-test</module>
+        <module>cfgo-study</module>
+        <module>cfgo-user</module>
+        <module>cfgo-order</module>
+        <module>cfgo-common</module>
+        <module>cfgo-math</module>
+    </modules>
 
-	<properties>
-		<revision>1.0.0-SNAPSHOT</revision>
+    <properties>
+        <revision>1.0.0-SNAPSHOT</revision>
 
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<!-- for spring-boot-maven-plugin -->
-		<spring-boot-maven-plugin.version>3.2.0</spring-boot-maven-plugin.version>
+        <!-- for spring-boot-maven-plugin -->
+        <spring-boot-maven-plugin.version>3.2.0</spring-boot-maven-plugin.version>
 
-		<!-- for maven compiler plugin -->
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
+        <!-- for maven compiler plugin -->
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
 
-		<maven-compiler-plugin.version>3.6.2</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.6.2</maven-compiler-plugin.version>
 
-	</properties>
+    </properties>
 
-	<dependencyManagement>
-		<dependencies>
-			<dependency>
-				<groupId>com.chenfei</groupId>
-				<artifactId>cfgo-dependencies-bom</artifactId>
-				<version>${revision}</version>
-				<type>pom</type>
-				<scope>import</scope>
-			</dependency>
-		</dependencies>
-	</dependencyManagement>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.chenfei</groupId>
+                <artifactId>cfgo-dependencies-bom</artifactId>
+                <version>${revision}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
-	<build>
-		<pluginManagement>
-			<plugins>
-				<plugin>
-					<groupId>org.springframework.boot</groupId>
-					<artifactId>spring-boot-maven-plugin</artifactId>
-					<version>${spring-boot-maven-plugin.version}</version>
-				</plugin>
-			</plugins>
-		</pluginManagement>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>${maven-compiler-plugin.version}</version>
-				<configuration>
-					<source>${maven.compiler.source}</source>
-					<target>${maven.compiler.target}</target>
-					<compilerVersion>${maven.compiler.source}</compilerVersion>
-					<showDeprecation>true</showDeprecation>
-					<showWarnings>true</showWarnings>
-				</configuration>
-			</plugin>
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-maven-plugin</artifactId>
+                    <version>${spring-boot-maven-plugin.version}</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>${maven-compiler-plugin.version}</version>
+                <configuration>
+                    <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
+                    <compilerVersion>${maven.compiler.source}</compilerVersion>
+                    <showDeprecation>true</showDeprecation>
+                    <showWarnings>true</showWarnings>
+                </configuration>
+            </plugin>
 
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-source-plugin</artifactId>
-				<version>3.2.1</version>
-			</plugin>
-		</plugins>
-	</build>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>3.2.1</version>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
